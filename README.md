@@ -1,5 +1,5 @@
 # Airbnb-price-rediction-bristol
-# Airbnb Price Prediction - Bristol
+# 🏠 Airbnb Price Prediction - Bristol
 
 This project focuses on predicting **Airbnb listing prices in Bristol, UK** using real-world data from [Inside Airbnb](http://insideairbnb.com/). The workflow involves comprehensive **data preprocessing, feature engineering, model training**, and **evaluation using both linear and non-linear approaches** (LASSO Regression and Gradient Boosting).
 

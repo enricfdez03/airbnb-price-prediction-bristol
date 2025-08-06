@@ -117,6 +117,6 @@ Performance:
 
 **Enric Fernández Sala**  
 Bachelor's Student | International Business Economics
-[LinkedIn](www.linkedin.com/in/enric-fernandez-sala) | [GitHub](https://github.com/yourusername)
+www.linkedin.com/in/enric-fernandez-sala | https://github.com/enricfdez03
 
 

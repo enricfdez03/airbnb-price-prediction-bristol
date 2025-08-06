@@ -19,7 +19,7 @@ This project focuses on predicting **Airbnb listing prices in Bristol, UK** usin
 
 ## Dataset
 
-- **Source:** [Inside Airbnb – Bristol (Dec 25, 2024)](https://data.insideairbnb.com/united-kingdom/england/bristol/)
+- **Source:** [Inside Airbnb – Bristol (Dec 25, 2024)](https://data.insideairbnb.com/united-kingdom/england/bristol/2025-03-19/data/listings.csv.gz)
 - **Size:** ~2,700 listings
 - **Features:** 75 columns including numerical, categorical, textual, date, and JSON-formatted data.
 

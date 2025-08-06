@@ -1,9 +1,9 @@
 # Airbnb-price-rediction-bristol
-# 🏡 Airbnb Price Prediction - Bristol
+# Airbnb Price Prediction - Bristol
 
 This project focuses on predicting **Airbnb listing prices in Bristol, UK** using real-world data from [Inside Airbnb](http://insideairbnb.com/). The workflow involves comprehensive **data preprocessing, feature engineering, model training**, and **evaluation using both linear and non-linear approaches** (LASSO Regression and Gradient Boosting).
 
-> ⚠️ **Note:** This project was completed as part of an academic assignment with a strict word limit. As a result, explanations in the final report are intentionally concise. This README provides a more thorough and expanded overview of the process and methodology for anyone interested in the technical implementation.
+> **Note:** This project was completed as part of an academic assignment with a strict word limit. As a result, explanations in the final report are intentionally concise. This README provides a more thorough and expanded overview of the process and methodology for anyone interested in the technical implementation.
 
 ---
 
@@ -33,7 +33,7 @@ Key data groups:
 
 ---
 
-## 🧼 Data Preprocessing & Feature Engineering
+## Data Preprocessing & Feature Engineering
 
 The raw dataset required substantial cleaning and transformation:
 
@@ -47,7 +47,7 @@ The raw dataset required substantial cleaning and transformation:
 
 ---
 
-## ⚙️ Modeling Approaches
+##  Modeling Approaches
 
 ### 1. **LASSO Regression (Linear Model)**
 
@@ -78,7 +78,7 @@ Performance:
 
 ---
 
-## 📉 Visualizations
+##  Visualizations
 
 - **Price distribution** before and after outlier removal.
 - **Boxplots** of continuous variables to visualize skew and detect outliers.
@@ -88,7 +88,7 @@ Performance:
 
 ---
 
-## 🧠 Key Takeaways
+## Key Takeaways
 
 - Feature engineering and careful preprocessing are **critical** to model performance.
 - **LASSO performed comparably** to Gradient Boosting, but struggled with upper-end prices.
@@ -97,7 +97,7 @@ Performance:
 
 ---
 
-## 📚 References
+## References
 
 - Wang, D. & Nicolau, J. (2017). *Price determinants of sharing economy-based accommodation rental.*
 - James, G., Witten, D., Hastie, T., & Tibshirani, R. (2013). *An Introduction to Statistical Learning.*
@@ -105,23 +105,18 @@ Performance:
 
 ---
 
-## 🧩 Technologies Used
+## Technologies Used
 
 - **Language:** R
 - **Libraries:** `tidyverse`, `caret`, `glmnet`, `xgboost`, `fastDummies`, `jsonlite`, `ggplot2`, `DescTools`
-- **Data Source:** Inside Airbnb
+- **Data Source:** Inside Airbnb (https://insideairbnb.com/)
 
 ---
 
-## 🙋‍♂️ Author
+##  Author
 
 **Enric Fernández Sala**  
-Master’s Student | Data Analytics & Applied Econometrics  
-[LinkedIn](#) | [GitHub](https://github.com/yourusername)
+Bachelor's Student | International Business Economics
+[LinkedIn](www.linkedin.com/in/enric-fernandez-sala) | [GitHub](https://github.com/yourusername)
 
----
-
-## 📝 Final Notes
-
-If you're an employer or collaborator reviewing this project, feel free to explore the scripts and reach out with any questions or feedback. This work reflects a strong foundation in data wrangling, statistical modeling, and real-world data application.
 

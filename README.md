@@ -6,7 +6,7 @@ This project focuses on predicting **Airbnb listing prices in Bristol, UK** usin
 
  - 📄 [Download the PDF Report](./Report.pdf)
  - 🌐 [Download the HTML Report](./Project&Outputs.html) *(open it in your browser)*
-
+ - ⌨️ [Download the R Markdown](./Project.Rmd)
 ---
 
 ## Objectives

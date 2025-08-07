@@ -3,6 +3,8 @@
 This project focuses on predicting **Airbnb listing prices in Bristol, UK** using real-world data from [Inside Airbnb](http://insideairbnb.com/). The workflow involves comprehensive **data preprocessing, feature engineering, model training**, and **evaluation using both linear and non-linear approaches** (LASSO Regression and Gradient Boosting).
 
 > **Note:** This project was completed as part of an academic assignment with a strict word limit. As a result, explanations in the final report are intentionally concise. This README provides a more thorough and expanded overview of the process and methodology for anyone interested in the technical implementation.
+> - 📄 [Download the PDF Report](./Report.pdf)
+  - 🌐 [Download the HTML Report](./Project&Outputs.html) *(open it in your browser)*
 
 ---
 
